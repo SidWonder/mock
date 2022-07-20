@@ -1,1 +1,1 @@
-console.log("wnwkd")
+console.log("imgoy")
