@@ -1,2 +1,2 @@
 console.log("imgoy")
-console.log("ganfl")
+console.log("leqia")
