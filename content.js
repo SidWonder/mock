@@ -1,2 +1,2 @@
 console.log("imgoy")
-console.log("leqia")
+console.log("ctvrv")
