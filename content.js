@@ -1,2 +1,2 @@
 console.log("imgoy")
-console.log("edkee")
+console.log("lobqj")
