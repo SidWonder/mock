@@ -1,1 +1,1 @@
-console.log("imgoy")
+console.log("krqig")
