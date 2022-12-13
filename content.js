@@ -1,1 +1,1 @@
-console.log("lkofa")
+console.log("tibma")
