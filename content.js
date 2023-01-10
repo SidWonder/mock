@@ -1,2 +1,2 @@
 console.log("vliko")
-console.log("snlgo")
+console.log("hmwqs")
