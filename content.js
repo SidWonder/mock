@@ -1,2 +1,2 @@
 console.log("vliko")
-console.log("hmwqs")
+console.log("dwwec")
