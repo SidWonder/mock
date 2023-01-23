@@ -1,2 +1,2 @@
 console.log("vliko")
-console.log("qxosj")
+console.log("terqk")
