@@ -1,3 +1,3 @@
 console.log("vliko")
 console.log("terqk")
-console.log("ahqgo")
+console.log("ugsni")
