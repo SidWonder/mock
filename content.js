@@ -1,3 +1,3 @@
 console.log("vliko")
 console.log("terqk")
-console.log("ptmgs")
+console.log("dlwhw")
