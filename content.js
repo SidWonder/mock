@@ -1,2 +1,2 @@
 console.log("vliko")
-console.log("liikv")
+console.log("ramgw")
