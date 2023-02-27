@@ -1,3 +1,3 @@
 console.log("vliko")
 console.log("hxfng")
-console.log("ikuas")
+console.log("glkoa")
